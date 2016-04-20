@@ -1,0 +1,30 @@
+{
+  "name": "scrollmagic-scenester",
+  "version": "1.0.0",
+  "description": "ScrollMagic plugin for grouping scenes and applying one scene to multiple elements.",
+  "main": "scrollmagic-scenester.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LomaxRx/scrollmagic-scenester.git"
+  },
+  "keywords": [
+    "scrollmagic",
+    "scroll",
+    "scrolling",
+    "animation",
+    "parallax"
+  ],
+  "author": "Andrew Lomax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LomaxRx/scrollmagic-scenester/issues"
+  },
+  "homepage": "https://github.com/LomaxRx/scrollmagic-scenester",
+  "dependencies": {
+    "gsap": "^1.18.3",
+    "jquery": "^2.2.3",
+    "scrollmagic": "^2.0.5"
+  }
+}
